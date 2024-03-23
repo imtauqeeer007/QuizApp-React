@@ -1,0 +1,49 @@
+[
+    {
+        "id":1,
+        "statement":"1. What is the name of the biggest city in the pakistan region?",
+        "options":["Lahore","Karachi","Islamabad","Multan"],
+        "correctOption":"Karachi"
+    },
+    {
+        "id":2,
+        "statement":"2. What is the name of the biggest city in the pakistan region?",
+        "options":["Lahore","Karachi","Islamabad","Multan"],
+        "correctOption":"Karachi"
+    },
+    {
+        "id":3,
+        "statement":"3. What is the name of the biggest city in the pakistan region?",
+        "options":["Lahore","Karachi","Islamabad","Multan"],
+        "correctOption":"Karachi"
+    },
+    {
+        "id":4,
+        "statement":"4. What is the name of the biggest city in the pakistan region?",
+        "options":["Lahore","Karachi","Islamabad","Multan"],
+        "correctOption":"Karachi"
+    },
+    {
+        "id":5,
+        "statement":"5. What is the name of the biggest city in the pakistan region?",
+        "options":["Lahore","Karachi","Islamabad","Multan"],
+        "correctOption":"Karachi"
+    },
+    {
+        "id":6,
+        "statement":"6. What is the name of the biggest city in the pakistan region?",
+        "options":["Lahore","Karachi","Islamabad","Multan"],
+        "correctOption":"Karachi"
+    },
+    {
+        "id":7,
+        "statement":"7. What is the name of the biggest city in the pakistan region?",
+        "options":["Lahore","Karachi","Islamabad","Multan"],
+        "correctOption":"Karachi"
+    }
+] 
+
+
+
+
+
